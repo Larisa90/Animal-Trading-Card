@@ -1,0 +1,33 @@
+
+#menu {
+  border: 1px #ccc;
+  border-style: solid;
+  box-shadow: 5px 5px 20px #ccc;
+  padding: 10px;
+  width: 300px;
+}
+
+h3.item {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#small {
+  border: 0.5px #ccc;
+  border-style: solid;
+  padding: 10px;
+}
+
+p.italic {
+  font-style:italic;
+}
+
+span.bold{
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
